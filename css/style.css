@@ -1,0 +1,189 @@
+html{
+    height: 100%;
+    width: 100%;
+    
+}
+body{
+    padding: 0%;
+    margin: 0%;
+    height: 100%;
+    width: 100%;
+}
+.whole{
+    width:100%;
+    height:100%;
+    margin: 0%;
+    padding:0%;
+    color: black;
+}
+.whole hr{
+    margin-bottom: 0%;
+}
+.content{
+    display: flex;
+    width: 100%;
+    height: 86%;
+}
+.header{
+    width: 100%;
+    height:8%;
+    background-color: #372D24;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    width:100%;
+    height:6%;
+    background-color: #372D24;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aside{
+    width: 20%;
+    height: 100%;
+    background-color: #FFF1E6;
+}
+aside{
+    height:100%;
+    width:100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    padding: 1%;
+    padding-bottom: 0%;
+    padding-top: 1%;
+}
+.profile-pic{
+    width:100%;
+    height:30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.profile-pic img{
+    width:51%;
+    height:80%;
+    border-radius: 14%;
+}
+.contact-details{
+    width:100%;
+    height:25%;
+}
+.contact-details h2{
+    margin-left: 2%;;
+}
+.contact-details li{
+    list-style-type: none;
+}
+.image{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.image img{
+    width:10%;
+    padding: 1%;
+}
+.languages{
+    width: 100%;
+    height: 15%;
+}
+.languages h2{
+    margin-left: 2%;
+}
+.languages li{
+    list-style-type: square;
+}
+.skills{
+    width:100%;
+    height:25%;
+}
+.skills h2{
+    margin-left: 2%;
+}
+.skills li{
+    list-style-type: square;
+}
+.space1{
+    margin-left: 6%;
+}
+.container{
+    width:80%;
+    height:100%;
+    padding: 1%;
+    padding-bottom: 0%;
+    padding-top: 1%;
+}
+.about{
+    width:90%;
+    height:18%;
+}
+.education p,h2{
+    margin: 0%;
+}
+.about p{
+    width:100%;
+    padding: 0.5%;
+    margin-left: 1%;
+}
+.education{
+    width:90%;
+    height:42%;
+}
+.space{
+    margin-left: 1%;
+}
+.education p,h3,h2{
+    margin: 0%;
+}
+.education p{
+    width:100%;
+    padding: 0.5%;
+    margin-left: 2%;
+}
+.education h2{
+    padding-bottom: 1%;
+}
+.year{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.internship{
+    width:90%;
+    height:15%;
+}
+.internship p,h3,h2{
+    margin: 0%;
+}
+.internship p{
+    margin-left: 2%;
+    width: 100%;
+    padding: 0.5%;
+}
+.internship h2{
+    padding-bottom: 1%;
+
+}
+.projects{
+    width:90%;
+    height:27%;
+}
+.projects p,h3,h2{
+    margin: 0%;
+}
+.projects p{
+    margin-left: 2%;
+    width: 100%;
+    padding: 0.5%;
+}
+.projects h2{
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
